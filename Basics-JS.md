@@ -95,7 +95,7 @@ let pinCode;    // pinCode is undefined here
     // Output: [1, 6, 7, 2, 4]   
     ``` 
 
-- Link to **`Array`** Article: 
+- [Link to **`Array`** Article](https://dev.to/imsushant12/a-guide-to-master-javascript-arrays-38bj)
 
 ### Objects
 #### Declarations ways:   
@@ -192,7 +192,7 @@ This method is used to merge two or more objects into a new target object.
     };
     console.log(book);
     ```
-- Link to **`Objects`** Article: 
+- [Link to **`Objects`** Article.](https://dev.to/imsushant12/a-guide-to-master-javascript-objects-362b)
 
 ### Destructing of Objects and Arrays:
 - Destructuring lets us unpack values from arrays or properties from objects into separate variables. 
